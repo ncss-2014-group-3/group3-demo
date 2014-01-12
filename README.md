@@ -13,5 +13,4 @@ group3-demo
  * Zhiqian Huang
  * Malyn Mawby
  * Cody Lovett
- * Dominic Fung
  * Brittany Klaassens
